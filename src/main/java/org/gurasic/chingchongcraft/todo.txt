@@ -1,0 +1,76 @@
+
+To do list:
+
+- Bugs
+☐ Fix the god damn qi acting up problem
+☐ Yea fix items being discard in rendering instead of consumed when upgrading manual
+☐ The effect wont stop it wont stop it wont stop it wont stop it wont stop it wont stop
+☐ GUI wont scale with resolution
+
+- Cool Shit that could be worked on
+☐ Sects in the world? Could be cool
+☐ Tea making?
+☐ Age?
+☐ Lives?
+☐ Talismans?
+☐ Artifacts?
+☐ Element Dimensions / Cool Dimensions?
+☐ Demonic Cultivation?
+
+- Cultivation
+☒ Add cultivation
+☒ Make a Hud icon for it
+☒ Make a GUI for it
+
+- Formations
+☐ Add formations (May god have mercy on my soul)
+☐ Make different types of formation
+☐ Scale the power of formations depending on the material they are made of
+
+- Personal Barrier
+☐ Add Personal Barrier and make it scale with cultivation
+☐ Possibly add an upgrade tree for the barrier?
+☐ Add Personal Barrier to the GUI
+
+- Alchemy
+☐ Add alchemy
+☐ Add multiple pills
+
+- Dantian
+☐ Add Dantian
+☐ Add Dantian to the GUI
+☐ Make Dantians work with Different materials
+☐ Make it possible to change your Dantian whenever you want
+☐ Make sure to add a system in place so that Manual upgrades and Dantian Upgrades don't get confused
+
+- Elements
+☒ Add elements
+☐ Rework elements, quan will send me to the shadow realm if i dont work on it anyways
+☐ Make elements increase stats
+☐ Add node elements and make t  hem work
+☐ Include elements on the GUI
+
+- Manuals
+☒ Add manuals
+☒ Add the Manual upgrade tree, and make it expandable
+☐ Add More type of manual upgrades, and upgrades that take in more than 1 input
+☐ Add more manuals in general
+
+- Techniques
+☐ Add techniques
+☐ Make techniques scale with cultivation
+☐ Add techniques with different elements and make them scale with that
+
+- Health
+☒ Add Custom health
+☐ Add Regeneration
+☐ Make Health grow with cultivation
+
+- Damage
+☐ Make Damage grow with cultivation
+
+- Defense
+☐ Make Defense grow with cultivation
+
+- Customization
+☐ Make it so that the player can change any stat to its minimum or the maximum the player has at that moment

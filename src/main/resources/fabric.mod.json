@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "chingchongcraft",
+  "version": "${version}",
+  "name": "ChingChongCraft",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/guras/ChingChongCraft"
+  },
+  "license": "MIT",
+  "icon": "assets/chingchongcraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.gurasic.chingchongcraft.client.ChingChongCraftClient"
+    ],
+    "main": [
+      "org.gurasic.chingchongcraft.ChingChongCraft"
+    ]
+  },
+  "mixins": [
+    "chingchongcraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
